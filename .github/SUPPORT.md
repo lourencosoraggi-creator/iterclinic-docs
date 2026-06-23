@@ -16,7 +16,7 @@ Este repositório contém apenas a **documentação pública** do Iter Clinic. P
 | WhatsApp (Suporte) | Seg–Sex 8h–18h | Disponível após login na plataforma |
 | E-mail | Sempre (resposta em até 24h) | contato@iterclinic.com |
 
-### Planos Pro e Enterprise
+### Planos Gold, Platinum e Enterprise
 
 Clientes nos planos superiores têm acesso a **suporte prioritário via WhatsApp** com tempo de resposta reduzido.
 

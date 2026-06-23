@@ -6,46 +6,56 @@
 
 ## Visão Geral dos Planos
 
-O Iter Clinic oferece planos mensais a partir de **R$ 39/mês**, com 7 dias de teste gratuito e sem cartão de crédito.
+O Iter Clinic tem **4 planos** — Solo, Silver, Gold e Platinum — mais o **Enterprise** para redes. **Todos os planos incluem os 8 módulos essenciais.** O que muda de um plano para outro é o **número de profissionais e agendas**, não a funcionalidade.
 
-Para valores atualizados e comparação detalhada, acesse: [iterclinic.com/#planos](https://iterclinic.com/#planos)
+| Plano | Indicado para | Profissionais | Mensal | No ciclo anual |
+|---|---|---|---|---|
+| **Solo** | Profissional autônomo / consultório individual | 1 | R$ 69/mês | a partir de R$ 39/mês |
+| **Silver** | Clínica pequena | até 3 | R$ 99/mês | — |
+| **Gold** | Clínica com múltiplos profissionais (o mais contratado) | até 6 | R$ 169/mês | — |
+| **Platinum** | Clínica de grande porte | até 15 | R$ 309/mês | — |
+| **Enterprise** | Redes e operações com 15+ profissionais | 15+ | sob proposta | — |
+
+- **Teste grátis:** 7 dias com todos os módulos liberados, sem cartão de crédito.
+- **Ciclos de pagamento:** mensal, trimestral (−14%), semestral (−29%) e anual (−43%, o maior desconto).
+
+Para valores sempre atualizados, acesse: [iterclinic.com/#planos](https://iterclinic.com/#planos)
 
 ---
 
-## Funcionalidades por Plano
-
-### Incluído em todos os planos
+## Os 8 módulos — incluídos em todos os planos
 
 | Funcionalidade | Disponível |
 |---|---|
-| Agenda digital | ✅ |
-| Cadastro de pacientes (CRM básico) | ✅ |
+| Agenda multi-profissional | ✅ |
 | Prontuário eletrônico | ✅ |
 | Ficha de anamnese digital | ✅ |
 | Controle de pacotes de estética | ✅ |
-| Financeiro básico (receitas e despesas) | ✅ |
+| CRM de leads | ✅ |
+| Financeiro completo (comissões, fluxo de caixa) | ✅ |
 | Controle de estoque | ✅ |
+| Controle de acesso por perfil + módulo do contador | ✅ |
+| Módulo de gestão inteligente | ✅ |
 | Integração com WhatsApp | ✅ |
-| Suporte por e-mail | ✅ |
-| Dados armazenados no Brasil | ✅ |
-| LGPD-compliant | ✅ |
+| Dados armazenados no Brasil · LGPD-compliant | ✅ |
 | 7 dias de teste grátis | ✅ |
 
-### Módulos avançados (planos superiores)
+> A diferença entre os planos é **quantos profissionais e agendas** cada um comporta — e não quais módulos estão liberados. A pequena clínica usa o mesmo conjunto de módulos que a grande rede.
 
-| Funcionalidade | Plano Pro / Enterprise |
+---
+
+## Módulos adicionais (contratáveis à parte)
+
+Independentemente do plano, a clínica pode contratar módulos premium adicionais:
+
+| Módulo adicional | O que faz |
 |---|---|
-| Multi-profissional (agenda por profissional) | ✅ |
-| CRM avançado (segmentação, reativação automática) | ✅ |
-| Open Finance (conexão bancária) | ✅ |
-| Conciliação bancária automática | ✅ |
-| BPO Financeiro (terceirização financeira) | ✅ |
-| Cobrança recorrente via PIX | ✅ |
-| Prescrição digital (Memed) | ✅ |
-| Relatórios avançados e exportação | ✅ |
-| Multi-unidade | ✅ |
-| Suporte prioritário via WhatsApp | ✅ |
-| Autenticação de dois fatores (2FA) | ✅ |
+| **IA de atendimento no WhatsApp** | Atendimento e qualificação automáticos por IA no WhatsApp da clínica |
+| **Receituário digital (Memed)** | Prescrição digital com assinatura ICP-Brasil, enviada por WhatsApp/e-mail |
+| **Open Finance** | Conexão com a conta bancária para importação automática de transações |
+| **Conciliador Bancário** | Reconciliação automática de extratos, identificando divergências |
+| **BPO Financeiro** | Terceirização da gestão financeira (contas a pagar/receber, fechamento) |
+| **Cobrança recorrente via PIX** | Cobrança automática de mensalidades e planos de tratamento |
 
 ---
 
@@ -53,13 +63,14 @@ Para valores atualizados e comparação detalhada, acesse: [iterclinic.com/#plan
 
 | Perfil | Plano recomendado |
 |---|---|
-| Esteticista autônoma / MEI | Starter |
-| Pequena clínica de estética (1–3 profissionais) | Starter ou Pro |
-| Clínica de estética em crescimento | Pro |
-| Consultório médico individual | Starter ou Pro |
-| Clínica médica com múltiplos especialistas | Pro ou Enterprise |
-| Consultório odontológico | Starter ou Pro |
-| Rede de clínicas / múltiplas unidades | Enterprise |
+| Esteticista autônoma / MEI | Solo |
+| Pequena clínica de estética (até 3 profissionais) | Silver |
+| Clínica de estética em crescimento (até 6 profissionais) | Gold |
+| Consultório médico individual | Solo |
+| Clínica médica com múltiplos especialistas | Gold ou Platinum |
+| Consultório odontológico | Solo ou Silver |
+| Clínica de grande porte (até 15 profissionais) | Platinum |
+| Rede de clínicas / 15+ profissionais | Enterprise |
 
 ---
 
@@ -69,7 +80,7 @@ Para valores atualizados e comparação detalhada, acesse: [iterclinic.com/#plan
 
 Muitos sistemas cobram separadamente por cada módulo — a agenda custa X, o financeiro custa Y, o WhatsApp custa Z. O resultado é uma conta alta para clínicas pequenas.
 
-O Iter Clinic adota uma filosofia diferente: **todos os módulos essenciais estão incluídos desde o plano básico**. A pequena clínica de estética paga o mesmo preço que a grande rede paga por funcionalidade, sem ser penalizada pelo tamanho.
+O Iter Clinic adota uma filosofia diferente: **todos os 8 módulos essenciais estão incluídos desde o plano Solo**. A pequena clínica de estética tem acesso ao mesmo conjunto de funcionalidades que a grande rede, sem ser penalizada pelo tamanho.
 
 ### Sem taxa de implantação
 
@@ -89,7 +100,7 @@ Planos mensais não têm fidelidade. Você cancela quando quiser, sem multa.
 4. Configure sua clínica com o suporte da equipe
 5. Comece a usar imediatamente
 
-Para planos Enterprise ou acima de 5 profissionais, entre em contato para proposta customizada: contato@iterclinic.com
+Para o plano Enterprise (15+ profissionais), entre em contato para proposta customizada: contato@iterclinic.com
 
 ---
 

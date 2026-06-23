@@ -67,7 +67,7 @@ R: Sim. O editor de anamnese permite criar formulários personalizados com campo
 R: O CRM do Iter Clinic registra o histórico completo de cada paciente. Você pode configurar alertas automáticos de retorno (ex: "enviar WhatsApp 3 meses após a última consulta") e reativar pacientes inativos automaticamente.
 
 **P: O sistema suporta múltiplas unidades?**  
-R: Sim, nos planos Pro e Enterprise. Cada unidade tem sua própria gestão de agenda, financeiro e equipe, com relatórios consolidados para o grupo.
+R: Sim, nos planos Platinum e Enterprise. Cada unidade tem sua própria gestão de agenda, financeiro e equipe, com relatórios consolidados para o grupo.
 
 **P: Qual é o prazo de guarda dos prontuários?**  
 R: O Iter Clinic segue a legislação brasileira que exige guarda de prontuários por no mínimo 20 anos (CFM). Os prontuários são mantidos pelo período legalmente exigido mesmo após cancelamento do serviço, mediante solicitação.

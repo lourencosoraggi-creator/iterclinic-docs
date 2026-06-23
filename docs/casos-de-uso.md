@@ -51,7 +51,7 @@ Profissional autônomo, MEI ou microempresa estética com 1 a 3 profissionais. P
 
 ### Como o Iter Clinic resolve
 
-O plano Starter do Iter Clinic foi criado especificamente para este perfil. A partir de R$ 39/mês, o profissional tem:
+O plano Solo do Iter Clinic foi criado especificamente para este perfil. A partir de R$ 39/mês no ciclo anual, o profissional tem:
 
 - Agenda digital completa com link de agendamento online
 - Cadastro de pacientes e histórico

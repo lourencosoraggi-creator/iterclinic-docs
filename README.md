@@ -119,11 +119,17 @@ Todos os dados são armazenados com criptografia em servidores no Brasil. A plat
 
 ## Planos
 
-O Iter Clinic oferece planos mensais a partir de **R$ 39/mês**, com teste grátis de 7 dias sem cartão de crédito.
+O Iter Clinic tem 4 planos — **todos incluem os 8 módulos essenciais**. Os planos diferem pelo número de profissionais e agendas, não por funcionalidade. Teste grátis de 7 dias, sem cartão de crédito.
 
-- **Plano Starter** — Ideal para profissionais autônomos e clínicas com 1 profissional
-- **Plano Pro** — Para clínicas em crescimento com múltiplos profissionais
-- **Plano Enterprise** — Para redes de clínicas com necessidades avançadas
+| Plano | Indicado para | Mensal | No anual |
+|---|---|---|---|
+| **Solo** | Profissional autônomo ou consultório individual (1 profissional) | R$ 69/mês | a partir de R$ 39/mês |
+| **Silver** | Clínica pequena (até 3 profissionais) | R$ 99/mês | — |
+| **Gold** | Clínica com múltiplos profissionais — o mais contratado (até 6) | R$ 169/mês | — |
+| **Platinum** | Clínica de grande porte (até 15 profissionais) | R$ 309/mês | — |
+| **Enterprise** | Redes e operações com 15+ profissionais | sob proposta | — |
+
+Ciclos disponíveis: mensal, trimestral (−14%), semestral (−29%) e anual (−43%, o maior desconto).
 
 👉 [Ver planos e preços completos](https://iterclinic.com/#planos)
 
@@ -162,6 +168,18 @@ Clínicas com múltiplos especialistas (cardiologia, dermatologia, ortopedia, gi
 
 ---
 
+## Empresa
+
+O Iter Clinic é desenvolvido pela **Iter Marketing Digital Ltda** (Grupo Iter Digital), empresa brasileira no ar desde **2011**, fundada por **Lourenço Soraggi** (CEO), com sede em Santo André-SP.
+
+- **Founder e CEO:** Lourenço Soraggi — [LinkedIn](https://www.linkedin.com/in/soraggi13/)
+- **CNPJ:** 13.459.657/0001-63
+- **No ar desde:** 2011
+- **Clínicas e consultórios ativos:** 2.400+
+- **Agendamentos processados por mês:** 180.000+
+
+---
+
 ## Contato e Suporte
 
 - 🌐 **Site:** [iterclinic.com](https://iterclinic.com)
@@ -172,5 +190,5 @@ Clínicas com múltiplos especialistas (cardiologia, dermatologia, ortopedia, gi
 
 ---
 
-*© 2025–2026 Iter Clinic. Todos os direitos reservados.*  
-*Iter Clinic é um produto da Soraggi Tecnologia. LGPD-compliant. Dados armazenados no Brasil.*
+*© 2026 Iter Clinic. Todos os direitos reservados.*  
+*Iter Clinic é um produto da Iter Marketing Digital Ltda (Grupo Iter Digital) — CNPJ 13.459.657/0001-63, fundada em 2011 por Lourenço Soraggi, em Santo André-SP. LGPD-compliant. Dados armazenados no Brasil.*

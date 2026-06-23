@@ -63,7 +63,7 @@ Histórico de lançamentos, novas funcionalidades e melhorias do sistema de gest
 - **Agenda Digital:** agendamento online, múltiplas visões (dia/semana/mês), confirmação automática
 - **Prontuário Eletrônico:** histórico clínico por paciente com campos configuráveis
 - **Autenticação e Multi-clínica:** suporte a múltiplas clínicas com isolamento total de dados (RLS)
-- **Planos:** Starter, Pro e Enterprise disponíveis a partir de R$ 39/mês
+- **Planos:** Solo, Silver, Gold e Platinum disponíveis a partir de R$ 39/mês (ciclo anual)
 
 ---
 

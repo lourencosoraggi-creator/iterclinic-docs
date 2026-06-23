@@ -23,7 +23,7 @@ A integração WhatsApp do Iter Clinic resolve esse problema com:
 
 ### O sistema funciona para esteticistas autônomos (MEI)?
 
-Sim. O plano Starter do Iter Clinic foi desenhado para esteticistas que trabalham sozinhos ou com poucos profissionais. Inclui todas as funcionalidades essenciais a partir de R$ 39/mês, sem taxa de implantação e com 7 dias de teste grátis.
+Sim. O plano Solo do Iter Clinic foi desenhado para esteticistas que trabalham sozinhas ou com poucos profissionais. Inclui todas as funcionalidades essenciais a partir de R$ 39/mês no ciclo anual, sem taxa de implantação e com 7 dias de teste grátis.
 
 ### Como funciona o controle de pacotes de estética?
 

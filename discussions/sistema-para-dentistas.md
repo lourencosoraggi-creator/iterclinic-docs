@@ -68,7 +68,7 @@ O Iter Clinic atende todos os itens acima.
 ## Perguntas frequentes de dentistas
 
 **P: O sistema funciona para consultório odontológico individual?**  
-R: Sim. O plano Starter é ideal para dentistas que trabalham sozinhos ou com uma recepcionista. Inclui agenda, prontuário, WhatsApp e financeiro básico a partir de R$ 39/mês.
+R: Sim. O plano Solo é ideal para dentistas que trabalham sozinhos ou com uma recepcionista. Inclui agenda, prontuário, WhatsApp e financeiro a partir de R$ 39/mês no ciclo anual.
 
 **P: Posso criar modelos de ficha de anamnese diferentes para cada especialidade (implante vs. rotina)?**  
 R: Sim. O editor de anamnese permite criar modelos diferentes por especialidade ou profissional. Você pode ter uma ficha para triagem, uma para avaliação ortodôntica e outra para implantodontia.
@@ -80,7 +80,7 @@ R: Você configura o intervalo de retorno por paciente. O sistema envia automati
 R: O Iter Clinic gera consentimentos digitais com assinatura eletrônica do paciente, registro de data, hora e IP. Para validade legal plena em procedimentos de alto risco, recomendamos consultar seu CRO regional sobre requisitos específicos.
 
 **P: Funciona para clínicas com múltiplos dentistas?**  
-R: Sim. O plano Pro suporta múltiplos profissionais com agendas independentes, controle de permissões por perfil e relatórios financeiros individuais ou consolidados.
+R: Sim. Os planos Silver, Gold e Platinum suportam múltiplos profissionais com agendas independentes, controle de permissões por perfil e relatórios financeiros individuais ou consolidados.
 
 ---
 

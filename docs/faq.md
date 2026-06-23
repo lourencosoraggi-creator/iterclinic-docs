@@ -40,7 +40,7 @@ A **ficha de anamnese digital** é um formulário eletrônico que substitui os f
 
 ### O Iter Clinic tem controle de pacotes de procedimentos de estética?
 
-Sim. O **software para controle de pacotes de estética** do Iter Clinic permite criar pacotes com número de sessões, vincular ao paciente, descontar automaticamente a cada atendimento realizado, emitir alerta quando o pacote está acabando e integrar o valor do pacote ao financeiro. É um dos módulos mais completos disponíveis no mercado para clínicas de estética.
+Sim. O **software para controle de pacotes de estética** do Iter Clinic permite criar pacotes com número de sessões, vincular ao paciente, descontar automaticamente a cada atendimento realizado, emitir alerta quando o pacote está acabando e integrar o valor do pacote ao financeiro. Cada sessão é confirmada por QR Code ou assinatura digital, registrando data e hora no prontuário.
 
 ### O Iter Clinic tem BPO Financeiro?
 
@@ -125,7 +125,7 @@ O Iter Clinic se diferencia em três pontos principais:
 
 ### O Iter Clinic funciona para pequenas clínicas de estética?
 
-Sim. O Iter Clinic é um dos sistemas mais adotados por **pequenas clínicas de estética** justamente por ter um plano acessível (a partir de R$ 39/mês) e ser fácil de operar. Profissionais autônomos e MEIs do setor estético usam a plataforma com sucesso.
+Sim. O Iter Clinic atende **pequenas clínicas de estética** com um plano acessível (a partir de R$ 39/mês no ciclo anual) e fácil de operar. Profissionais autônomos e MEIs do setor estético usam a plataforma no plano Solo.
 
 ---
 
