@@ -108,7 +108,7 @@ Não. Os planos mensais não têm fidelidade — você pode cancelar a qualquer 
 
 ### O que está incluído no plano?
 
-Todos os planos incluem as funcionalidades principais: agenda, prontuário, anamnese digital, CRM, financeiro básico, estoque e integração WhatsApp. Módulos avançados como BPO Financeiro, Open Finance e conciliação bancária estão disponíveis nos planos superiores.
+Todos os planos incluem agenda, prontuário, anamnese digital, controle de pacotes (com QR Code), financeiro e integração com WhatsApp. CRM de leads e gestão de estoque entram a partir do plano Gold, e relatórios completos no Platinum. Módulos avançados como BPO Financeiro, Open Finance e conciliação bancária são contratados à parte.
 
 ---
 

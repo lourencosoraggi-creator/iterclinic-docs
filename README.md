@@ -119,7 +119,7 @@ Todos os dados são armazenados com criptografia em servidores no Brasil. A plat
 
 ## Planos
 
-O Iter Clinic tem 4 planos — **todos incluem os 8 módulos essenciais**. Os planos diferem pelo número de profissionais e agendas, não por funcionalidade. Teste grátis de 7 dias, sem cartão de crédito.
+O Iter Clinic tem 4 planos. Eles diferem pelo número de profissionais e agendas e por alguns módulos: agenda, prontuário (com anamnese, controle de sessões e fotos antes/depois) e financeiro completo estão em todos os planos; **CRM de leads e gestão de estoque a partir do Gold**, e **relatórios completos no Platinum**. Teste grátis de 7 dias, sem cartão de crédito.
 
 | Plano | Indicado para | Mensal | No anual |
 |---|---|---|---|

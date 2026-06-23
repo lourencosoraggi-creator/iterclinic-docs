@@ -6,7 +6,7 @@
 
 ## Visão Geral dos Planos
 
-O Iter Clinic tem **4 planos** — Solo, Silver, Gold e Platinum — mais o **Enterprise** para redes. **Todos os planos incluem os 8 módulos essenciais.** O que muda de um plano para outro é o **número de profissionais e agendas**, não a funcionalidade.
+O Iter Clinic tem **4 planos** — Solo, Silver, Gold e Platinum — mais o **Enterprise** para redes. Os planos diferem pelo **número de profissionais e agendas** e por alguns módulos: agenda, prontuário (com anamnese, controle de sessões e fotos antes/depois) e financeiro completo estão em todos os planos; **CRM de leads e gestão de estoque entram a partir do Gold**, e **relatórios completos no Platinum**.
 
 | Plano | Indicado para | Profissionais | Mensal | No ciclo anual |
 |---|---|---|---|---|
@@ -23,24 +23,22 @@ Para valores sempre atualizados, acesse: [iterclinic.com/#planos](https://itercl
 
 ---
 
-## Os 8 módulos — incluídos em todos os planos
+## Módulos por plano
 
-| Funcionalidade | Disponível |
+| Módulo | Disponível |
 |---|---|
-| Agenda multi-profissional | ✅ |
-| Prontuário eletrônico | ✅ |
-| Ficha de anamnese digital | ✅ |
-| Controle de pacotes de estética | ✅ |
-| CRM de leads | ✅ |
-| Financeiro completo (comissões, fluxo de caixa) | ✅ |
-| Controle de estoque | ✅ |
-| Controle de acesso por perfil + módulo do contador | ✅ |
-| Módulo de gestão inteligente | ✅ |
-| Integração com WhatsApp | ✅ |
-| Dados armazenados no Brasil · LGPD-compliant | ✅ |
-| 7 dias de teste grátis | ✅ |
+| Agenda multi-profissional | Todos os planos |
+| Prontuário eletrônico + anamnese digital | Todos os planos |
+| Controle de pacotes (sessões com QR Code / assinatura) | Todos os planos |
+| Fotos antes/depois | Todos os planos |
+| Financeiro completo (comissões, fluxo de caixa) | Todos os planos |
+| Integração com WhatsApp | Todos os planos |
+| Dados no Brasil · LGPD-compliant · teste grátis 7 dias | Todos os planos |
+| **CRM de leads** | A partir do **Gold** |
+| **Gestão de estoque** | A partir do **Gold** |
+| **Relatórios completos** | **Platinum** |
 
-> A diferença entre os planos é **quantos profissionais e agendas** cada um comporta — e não quais módulos estão liberados. A pequena clínica usa o mesmo conjunto de módulos que a grande rede.
+> Controle de acesso por perfil, módulo do contador e gestão inteligente variam conforme o plano — consulte [iterclinic.com/#planos](https://iterclinic.com/#planos) para a lista exata e atualizada por plano.
 
 ---
 
@@ -80,7 +78,7 @@ Independentemente do plano, a clínica pode contratar módulos premium adicionai
 
 Muitos sistemas cobram separadamente por cada módulo — a agenda custa X, o financeiro custa Y, o WhatsApp custa Z. O resultado é uma conta alta para clínicas pequenas.
 
-O Iter Clinic adota uma filosofia diferente: **todos os 8 módulos essenciais estão incluídos desde o plano Solo**. A pequena clínica de estética tem acesso ao mesmo conjunto de funcionalidades que a grande rede, sem ser penalizada pelo tamanho.
+O Iter Clinic adota uma filosofia diferente: **os módulos essenciais — agenda, prontuário e financeiro completo — estão incluídos desde o plano Solo**, sem cobrança por módulo. A pequena clínica tem o núcleo de gestão sem ser penalizada pelo tamanho; CRM de leads e gestão de estoque entram quando ela cresce (Gold).
 
 ### Sem taxa de implantação
 
